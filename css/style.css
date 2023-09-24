@@ -131,7 +131,7 @@ header::after {
     width: 100%;
     position: absolute;
     bottom: 0;
-    
+    left: 55%;
 }
 .banner-img img{
     
